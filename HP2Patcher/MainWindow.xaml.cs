@@ -70,7 +70,7 @@ namespace HP2Patcher
 
         private void GitHub_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("https://github.com/KilLo445/NFSPatcherGUI/tree/hp2");
+            Process.Start("https://github.com/KilLo445/HP2Patcher");
         }
 
         private void Patch_Click(object sender, RoutedEventArgs e)
